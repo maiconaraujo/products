@@ -1,2 +1,2 @@
-# products
-Gerenciamento de produtos
+# Products
+Gerenciamento de produtos e categorias
